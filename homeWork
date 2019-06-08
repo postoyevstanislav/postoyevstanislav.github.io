@@ -1,6 +1,12 @@
 <!DOCTYPE HTML>
 <html>
  <head>
-  <h1> Do my homework</h1>
+  <style>
+   .hw
+   font-color: red
+  </style>
  </head>
+  <body>
+  <h1 class="hw"> Do my homework</h1>
+  </body>
 </html>
