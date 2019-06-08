@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html>
  <head>
-  <h1> Do my homework</h1>
+  <h1 class="hw"> Do my homework</h1>
  </head>
 </html>
